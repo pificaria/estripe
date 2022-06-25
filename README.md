@@ -1,5 +1,6 @@
 # About
-Stereo 3-band parametric equalizer for jack with fader and mono controls.
+Stereo 3-band parametric equalizer for jack with fader and mono controls. This
+package requires rust's nightly toolchain to build.
 
 # Usage
 Estripe runs an OSC server at port 5510, and can receive messages at the
